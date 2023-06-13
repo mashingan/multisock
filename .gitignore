@@ -1,0 +1,33 @@
+*
+
+!*.*
+!*/
+
+!LICENSE
+
+nimcache/
+.vscode/
+buildcache/
+
+# Vim backup file
+*.swp
+*.un~
+
+*.exe
+*.bson
+*.bin
+*.txt
+
+# disable for big files
+*.mkv
+*.mp4
+
+config.nims
+*.settings
+
+*.pem
+
+testresults/
+scratchpad/
+
+config.nims
