@@ -1,6 +1,6 @@
 # Package
 
-version       = "1.0.0"
+version       = "1.0.1"
 author        = "Rahmatullah"
 description   = "Pragma supports net.Socket and asyncnet.AsyncSocket"
 license       = "MIT"
@@ -11,4 +11,4 @@ skipExt       = @["md"]
 
 # Dependencies
 
-requires "nim >= 1.6.4"
+requires "nim >= 1.4.0"
